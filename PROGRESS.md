@@ -9,3 +9,5 @@ September 8, 2026: Added a no-account page-open counter below the invitation usi
 September 8, 2026: Hid the counter on the normal invitation view. It is displayed only when the private `#counter` link is used; normal QR visitors see only the invitation.
 
 September 8, 2026: Reset the counter after testing by switching to a fresh counter ID. The new production count starts at zero.
+
+October 17, 2026: Created `halloween-invite-draft.png` from the existing invitation. Preserved the illustrated two-house layout and all supporting copy, changed the headline to “HALLOWEEN PARTY,” and shifted the artwork to a cream, burnt-orange, and charcoal Halloween palette. The live invitation remains unchanged.
