@@ -13,3 +13,5 @@ September 8, 2026: Reset the counter after testing by switching to a fresh count
 October 17, 2026: Created `halloween-invite-draft.png` from the existing invitation. Preserved the illustrated two-house layout and all supporting copy, changed the headline to “HALLOWEEN PARTY,” and shifted the artwork to a cream, burnt-orange, and charcoal Halloween palette. The live invitation remains unchanged.
 
 October 17, 2026: Created `halloween-invite-v2.png`, a stronger Halloween treatment with an orange moonlit sky, bats, bare branches, cobwebs, glowing pumpkins, and autumn leaves. Published it as a direct GitHub Pages image because the phone relay did not display generated-image tool output. The live invitation remains unchanged.
+
+October 17, 2026: Saved `halloween-invite-v3-purple.png` as a separate color variant. It preserves the v2 composition and decorations while changing the sky to deep plum and violet; the orange v2 remains saved separately and the live invitation remains unchanged.
